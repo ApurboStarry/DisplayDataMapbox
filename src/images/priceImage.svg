@@ -1,0 +1,17 @@
+<svg width="211" height="136" viewBox="0 0 211 136" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="211" height="136" fill="#E5E5E5"/>
+  <rect width="211" height="136" fill="#FFFCFC"/>
+  <rect width="211" height="136" rx="38" fill="black"/>
+  <text 
+    font-weight="bold"
+    x="50%" 
+    y="50%" 
+    dominant-baseline="middle" 
+    text-anchor="middle" 
+    fill="white" 
+    font-size="3.5em"
+    font-family="monospace"
+  >
+    $20.99
+  </text>
+</svg>

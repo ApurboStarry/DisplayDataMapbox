@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "latitude": 25.6278,
+    "longitude": 88.6331,
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "latitude": 25.6222,
+    "longitude": 88.6438,
+    "price": 14
+  },
+  {
+    "id": 3,
+    "latitude": 25.6275,
+    "longitude": 88.6394,
+    "price": 14.5
+  }
+]
